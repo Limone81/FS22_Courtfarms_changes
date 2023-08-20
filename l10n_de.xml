@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+	<translationContributors>oxy</translationContributors>
+	<languageVersion>1.0.0.0</languageVersion>
+	<texts>
+	  
+	  <text name="rabbits" 	 	 text="Kaninchen-Stall" />
+	  <text name="fillType_Rabbit" text="Kaninchen" />
+	  <text name="shopItem_animalrabbitGrowthStage0" text="Kaninchen" />
+	  <text name="animal_rabbitGrowthStage0Description" text="Ausgewachsenes Kaninchen.." />
+	  
+	  <text name="fillType_Baby_Rabbit" text="Baby-Kaninchen" />
+	  <text name="shopItem_animalrabbitbGrowthStage0" text="Baby-Kaninchen" />
+	  <text name="animal_rabbitbGrowthStage0Description" text="Kaninchenbabys wachsen zu Erwachsenen heran." />
+	  
+	 
+	  
+	  <text name="shopItem_farmersmarket" text="Bauernmarkt." />
+	  <text name="shopItem_pinecreek" text="Pinecreek Läden." />
+	  <text name="shopItem_talltrees" text="Talltrees Filialen." />
+	  <text name="shopItem_valleyview" text="Valleyview Filialen." />
+	  <text name="shopItem_longmeadow stores" text="Longmeadow Filialen." />
+	  <text name="shopItem_follydown stores" text="Follydown-Läden." />
+	  <text name="shopItem_talltreesbay1" text="Talltrees Stores Bucht 1." />
+	  <text name="shopItem_gardencentre" text="Gartencenter." />
+	  
+	  <text name="shopItem_pinecreekbales" text="Pinecreek-Ballen." />
+	  <text name="shopItem_talltreesbales" text="Talltrees Ballen." />
+	  <text name="shopItem_valleyviewbales" text="Ballen mit Blick auf das Tal." />
+	  <text name="shopItem_farmersmarketbales" text="Ballen auf dem Bauernmarkt." />
+	  <text name="shopItem_longmeadowbales" text="Langwiesenballen." />
+	  <text name="shopItem_follydownbales" text="Follydown-Ballen." />
+	  <text name="shopItem_gardencentrebales" text="Ballen für Gartencenter." />
+	  
+	  <text name="shopItem_stonebridge workshop" text="Steinbrücken-Werkstatt." />
+	  <text name="shopItem_shop workshop" text="Kfz-Werkstatt Werkstatt." />
+	  
+	  <text name="fillType_rye" text="Rye" />      
+	  
+	  
+	  
+	  <text name="shopItem_landforsalesigns" text="Schilder für Grundstücke zum Verkauf." />
+	   
+	  <text name="shopItem_courtfarmsheep" text="Court Farms Schafe" />
+	  <text name="shopItem_courtfarmchicken" text="Court Farms Hühner" />
+	  <text name="shopItem_courtfarmcow" text="Court Farms Kühe" />
+	  <text name="shopItem_courtfarmhorse" text="Court Farms Pferde" />
+	  <text name="shopItem_courtfarmsilo" text="Court Farms Silo" />
+	  <text name="shopItem_courtfarmrabbit" text="Court Farms Kaninchen" />
+	  <text name="shopItem_courtfarmpig" text="Court Farms Schweine" />
+	  <text name="shopItem_workshopcourtfarm" text="Hofbauernhof-Workshop" />
+	  
+	  <text name="shopItem_stonebridgefarmchicken" text="Stonebridge Farm Hühner" />
+	  <text name="shopItem_stonebridgefarmcow" text="Stonebridge Farm Kühe" />
+	  <text name="shopItem_stonebridgefarmsheep" text="Stonebridge Farm Schafe" />
+	  
+	  <text name="shopItem_stonebridgefarmhorse" text="Stonebridge Farm Pferde" />
+	  <text name="shopItem_stonebridgefarmrabbit" text="Stonebridge Farm Kaninchen" />
+      <text name="shopItem_stonebridgefarmsilo" text="Stonebridge Farm Silo" />
+	  <text name="shopItem_stonebridgefarmpig" text="Stonebridge Farm Schweine" />
+	  
+	  <text name="shopItem_elmcroftfarmcow" text="Elmcroft Farm Kühe" />
+	  <text name="shopItem_elmcroftfarmsilo" text="Elmcroft Farm Silo" />
+	  <text name="shopItem_elmcroftfarmsheep" text="Elmcroft Farm Schafe" />
+      <text name="shopItem_workshopelmcroftfarm" text="Elmcroft Farm Werkstatt" />
+	  
+	  <text name="shopItem_homefarmcow" text="Home Farm Kühe" />
+	  <text name="shopItem_homefarmsilo" text="Home Farm Silo" />
+	  <text name="shopItem_homefarmsheep" text="Home Farm Schafe" />
+	  <text name="shopItem_tentincome" text="Campingplatz" />
+
+
+	  
+	  <text name="shopItem_townstores" text="Städtische Läden" />
+	  <text name="shopItem_townstoresbales" text="Stadtläden Ballen" />
+
+	  <text name="shopItem_shophiessweettreatsbakery" text="Shophie's Sweet Treats Bäckerei" />
+
+      <text name="shopItem_courtsleep" text="Schlaf-Auslöser" />
+	  <text name="shopItem_rubbish" text="Müll im Hof entfernen" />
+	  <text name="shopItem_rabbitdummy" text="Tierwelt" />
+      
+      
+	  
+	  
+	  
+	
+	</texts>
+</l10n>
