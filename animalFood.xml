@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <animalFood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../shared/xml/schema/animalFood.xsd">
     <animals>
-        <animal animalType="COW" consumptionType="SERIAL">
-            <foodGroup title="$l10n_fillTypeGroup_forage"  productionWeight="1.00" fillTypes="FORAGE" />
-            <foodGroup title="$l10n_fillTypeGroup_hay"     productionWeight="0.60" fillTypes="DRYGRASS_WINDROW DRYALFALFA_WINDROW"/>
-            <foodGroup title="$l10n_fillTypeGroup_grass"   productionWeight="0.40" fillTypes="GRASS_WINDROW ALFALFA_WINDROW" />
-			<foodGroup title="$l10n_fillTypeGroup_silage"   productionWeight="0.90" fillTypes="SILAGE" />
+        <animal animalType="COW" consumptionType="PARALLEL">
+            <foodGroup title="$l10n_fillTypeGroup_forage"  productionWeight="0.40" eatWeight="0.40" fillTypes="FORAGE" />
+            <foodGroup title="$l10n_fillTypeGroup_hay"     productionWeight="0.20" eatWeight="0.20" fillTypes="DRYGRASS_WINDROW DRYALFALFA_WINDROW"/>
+            <foodGroup title="$l10n_fillTypeGroup_grass"   productionWeight="0.30" eatWeight="0.30" fillTypes="GRASS_WINDROW ALFALFA_WINDROW" />
+			<foodGroup title="$l10n_fillTypeGroup_base"    productionWeight="0.10" eatWeight="0.10" fillTypes="SILAGE" />
         </animal>
         <animal animalType="SHEEP" consumptionType="SERIAL">
             <foodGroup title="$l10n_fillTypeGroup_grass"   productionWeight="1.00" fillTypes="GRASS_WINDROW ALFALFA_WINDROW DRYALFALFA_WINDROW DRYGRASS_WINDROW" />
@@ -17,8 +17,8 @@
             <foodGroup title="$l10n_fillTypeGroup_earth"   productionWeight="0.05" eatWeight="0.05" fillTypes="POTATO SUGARBEET" />
         </animal>
         <animal animalType="HORSE" consumptionType="PARALLEL">
-            <foodGroup title="$l10n_fillTypeGroup_bulk"    productionWeight="0.60" eatWeight="0.25" fillTypes="OAT SORGHUM"/>
-            <foodGroup title="$l10n_fillTypeGroup_hay"     productionWeight="0.40" eatWeight="0.75" fillTypes="DRYGRASS_WINDROW DRYALFALFA_WINDROW" />
+            <foodGroup title="$l10n_fillTypeGroup_bulk"    productionWeight="0.60" eatWeight="0.60" fillTypes="OAT SORGHUM"/>
+            <foodGroup title="$l10n_fillTypeGroup_hay"     productionWeight="0.40" eatWeight="0.40" fillTypes="DRYGRASS_WINDROW DRYALFALFA_WINDROW" />
         </animal>
         <animal animalType="CHICKEN" consumptionType="SERIAL">
             <foodGroup title="$l10n_fillTypeGroup_grain"   productionWeight="1.00" fillTypes="WHEAT BARLEY SORGHUM" />
