@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <l10n>
-	<translationContributors>oxy</translationContributors>
-	<languageVersion>1.0.0.0</languageVersion>
+	<translationContributors>oxy; Limone81</translationContributors>
+	<languageVersion>1.0.0.1</languageVersion>
 	<texts>
 	  
 	  <text name="rabbits" 	 	 text="Kaninchen-Stall" />
@@ -35,8 +35,16 @@
 	  <text name="shopItem_stonebridge workshop" text="Steinbrücken-Werkstatt." />
 	  <text name="shopItem_shop workshop" text="Kfz-Werkstatt Werkstatt." />
 	  
-	  <text name="fillType_rye" text="Rye" />      
+	  <text name="fillType_rye" text="Roggen" />
 	  
+	<!-- added Limone81 -->
+		<text name="fillType_linseed" text="Leinsamen" />
+		<text name="fillType_fieldbean" text="Ackerbohnen" />
+		<text name="fillType_alfalfa" text="Luzerne" />
+		<text name="fillType_alfalfa_windrow" text="Luzerne" />
+		<text name="fillType_dryalfalfa_windrow" text="Luzerne Heu" />
+		<text name="fillType_dryalfalfa" text="Luzerne Heu" />
+	<!-- until here -->
 	  
 	  
 	  <text name="shopItem_landforsalesigns" text="Schilder für Grundstücke zum Verkauf." />
