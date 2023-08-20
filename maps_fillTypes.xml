@@ -91,7 +91,7 @@
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="maps/textures/foliage/linseed/linseed_diffuse.png"
                         normal  ="maps/textures/foliage/linseed/linseed_normal.png"
-                        specular="maps/textures/foliage/linseed/linseed_normal.png"
+                        specular="maps/textures/foliage/linseed/linseed_specular.png"
                         distance="maps/textures/foliage/linseed/linseedDistance_diffuse.png" />
         </fillType>
         <fillType name="BARLEY" title="$l10n_fillType_barley" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
