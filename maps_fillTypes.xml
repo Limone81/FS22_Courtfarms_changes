@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../shared/xml/schema/fillTypes.xsd">
     <fillTypeConverters>
         <fillTypeConverter name="TEDDER">
@@ -69,7 +69,7 @@
                         specular="$data/fillPlanes/wheat_specular.png"
                         distance="$data/fillPlanes/distance/wheatDistance_diffuse.png" />
         </fillType>
-		<fillType name="LINSEED" title="Linseed" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
+		<fillType name="LINSEED" title="$l10n_fillType_linseed" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.78" maxPhysicalSurfaceAngle="15" />
             <economy pricePerLiter="0.337">
                 <factors>
@@ -91,7 +91,7 @@
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="maps/textures/foliage/linseed/linseed_diffuse.png"
                         normal  ="maps/textures/foliage/linseed/linseed_normal.png"
-                        specular="maps/textures/foliage/linseed/linseed_specular.png"
+                        specular="maps/textures/foliage/linseed/linseed_normal.png"
                         distance="maps/textures/foliage/linseed/linseedDistance_diffuse.png" />
         </fillType>
         <fillType name="BARLEY" title="$l10n_fillType_barley" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
@@ -119,7 +119,7 @@
                         specular="$data/fillPlanes/barley_specular.png"
                         distance="$data/fillPlanes/distance/barleyDistance_diffuse.png" />
         </fillType>
-		<fillType name="RYE" title="Rye" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
+		<fillType name="RYE" title="$l10n_fillType_rye" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.68" maxPhysicalSurfaceAngle="15" />
             <economy pricePerLiter="0.313">
                 <factors>
@@ -324,7 +324,7 @@
                         specular="$data/fillPlanes/soybean_specular.png"
                         distance="$data/fillPlanes/distance/soybeanDistance_diffuse.png" />
         </fillType>
-		<fillType name="FIELDBEAN" title="Fieldbean" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
+		<fillType name="FIELDBEAN" title="$l10n_fillType_fieldbean" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.80" maxPhysicalSurfaceAngle="15" />
             <economy pricePerLiter="0.878">
                 <factors>
@@ -760,7 +760,7 @@
                         specular="$data/fillPlanes/grass_specular.png"
                         distance="$data/fillPlanes/distance/grassDistance_diffuse.png" />
         </fillType>
-		<fillType name="ALFALFA" title="Alfalfa" showOnPriceTable="false" unitShort="$l10n_unit_literShort">
+		<fillType name="ALFALFA" title="$l10n_fillType_alfalfa" showOnPriceTable="false" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.30" maxPhysicalSurfaceAngle="50" />
             <economy pricePerLiter="0.045">
                 <factors>
@@ -781,7 +781,7 @@
             <effects fruitSmokeColor="0.0970 0.1130 0.0171 1.0000"/>
             <image      hud     ="maps/textures/foliage/alfalfa/hud_fill_alfalfa.png" />
         </fillType>
-		<fillType name="ALFALFA_WINDROW" title="Alfalfa" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
+		<fillType name="ALFALFA_WINDROW" title="$l10n_fillType_alfalfa" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.30" maxPhysicalSurfaceAngle="50" />
             <economy pricePerLiter="0.075">
                 <factors>
@@ -806,7 +806,7 @@
                         specular="$data/fillPlanes/grass_specular.png"
                         distance="$data/fillPlanes/distance/grassDistance_diffuse.png" />
         </fillType>
-		<fillType name="DRYALFALFA_WINDROW" title="Alfalfa Hay" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
+		<fillType name="DRYALFALFA_WINDROW" title="$l10n_fillType_dryalfalfa_windrow" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.07" maxPhysicalSurfaceAngle="50" />
             <economy pricePerLiter="0.105">
                 <factors>
@@ -831,7 +831,7 @@
                         specular="maps/textures/foliage/alfalfa/dryAlfalfa_specular.png"
                         distance="maps/textures/foliage/alfalfa/distance/dryAlfalfa_distance.png" />
         </fillType>
-		<fillType name="DRYALFALFA" title="Alfalfa Hay" showOnPriceTable="false" unitShort="$l10n_unit_literShort">
+		<fillType name="DRYALFALFA" title="$l10n_fillType_dryalfalfa" showOnPriceTable="false" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.07" maxPhysicalSurfaceAngle="50" />
             <economy pricePerLiter="0.105">
                 <factors>
