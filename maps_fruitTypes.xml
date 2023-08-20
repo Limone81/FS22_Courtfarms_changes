@@ -145,7 +145,7 @@
             <cropCare maxWeederState="3" maxWeederHoeState="5" />
             <mapColors default="0.6939 0.3663 0.2747 1" colorBlind="0.1329 0.2664 0.9911 1"/>
         </fruitType>
-        <fruitType name="sugarCane" shownOnMap="true" useForFieldJob="false">
+        <fruitType name="sugarCane" shownOnMap="false" useForFieldJob="false">
             <general startStateChannel="0" numStateChannels="4" />
             <cultivation needsSeeding="true" allowsSeeding="true" directionSnapAngle="90" alignsToSun="false" seedUsagePerSqm="1.20" />
             <harvest minHarvestingGrowthState="11" maxHarvestingGrowthState="11" cutState="10" allowsPartialGrowthState="false" literPerSqm="11.34" />
@@ -157,7 +157,7 @@
             <cropCare maxWeederState="2" maxWeederHoeState="2" />
             <mapColors default="0.5395 0.6795 0.3206 1" colorBlind="0.0409 0.1070 0.2016 1"/>
         </fruitType>
-        <fruitType name="cotton" shownOnMap="true" useForFieldJob="true">
+        <fruitType name="cotton" shownOnMap="false" useForFieldJob="false">
             <general startStateChannel="0" numStateChannels="4" />
             <cultivation needsSeeding="true" allowsSeeding="true"  directionSnapAngle="0" alignsToSun="false" seedUsagePerSqm="0.05" />
             <harvest minHarvestingGrowthState="9" maxHarvestingGrowthState="9" cutState="11" allowsPartialGrowthState="false" literPerSqm="0.497"/>
