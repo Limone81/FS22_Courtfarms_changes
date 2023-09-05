@@ -39,31 +39,31 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="10" />
-                    <key ageMonth="18" value="95" />
+                    <key ageMonth="0" value="50" />
+                    <key ageMonth="18" value="250" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="10" />
                     <key ageMonth="18" value="80" />
                 </water>
                 <food><!-- liters per day based on age -->
-                    <key ageMonth="0" value="40" />
-                    <key ageMonth="18" value="350" />
+                    <key ageMonth="0" value="250" />
+                    <key ageMonth="18" value="1000" />
                 </food>
             </input>
             <output>
                 <milk><!-- liters per day based on age -->
                     <key ageMonth="0"  value="0" />
                     <key ageMonth="12" value="0" />
-                    <key ageMonth="12" value="150" />
+                    <key ageMonth="12" value="500" />
                 </milk>
                 <manure><!-- liters per day based on age -->
-                    <key ageMonth="0"  value="20" />
-                    <key ageMonth="18" value="200" />
+                    <key ageMonth="0"  value="250" />
+                    <key ageMonth="18" value="500" />
                 </manure>
                 <liquidManure><!-- liters per day based on age -->
-                    <key ageMonth="0"  value="40" />
-                    <key ageMonth="18" value="250" />
+                    <key ageMonth="0"  value="200" />
+                    <key ageMonth="18" value="600" />
                 </liquidManure>
             </output>
         </subType>
@@ -102,31 +102,31 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="10" />
-                    <key ageMonth="18" value="95" />
+                    <key ageMonth="0" value="50" />
+                    <key ageMonth="18" value="250" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="10" />
                     <key ageMonth="18" value="80" />
                 </water>
                 <food><!-- liters per day based on age -->
-                    <key ageMonth="0" value="40" />
-                    <key ageMonth="18" value="350" />
+                    <key ageMonth="0" value="250" />
+                    <key ageMonth="18" value="1500" />
                 </food>
             </input>
             <output>
                 <milk><!-- liters per day based on age -->
                     <key ageMonth="0"  value="0" />
                     <key ageMonth="12" value="0" />
-                    <key ageMonth="12" value="150" />
+                    <key ageMonth="12" value="600" />
                 </milk>
                 <manure><!-- liters per day based on age -->
-                    <key ageMonth="0"  value="20" />
-                    <key ageMonth="18" value="200" />
+                    <key ageMonth="0"  value="250" />
+                    <key ageMonth="18" value="500" />
                 </manure>
                 <liquidManure><!-- liters per day based on age -->
-                    <key ageMonth="0"  value="40" />
-                    <key ageMonth="18" value="250" />
+                    <key ageMonth="0"  value="200" />
+                    <key ageMonth="18" value="600" />
                 </liquidManure>
             </output>
         </subType>
@@ -165,26 +165,26 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="15" />
-                    <key ageMonth="18" value="130" />
+                    <key ageMonth="0" value="50" />
+                    <key ageMonth="18" value="250" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="10" />
                     <key ageMonth="18" value="80" />
                 </water>
                 <food><!-- liters per day based on age -->
-                    <key ageMonth="0" value="50" />
-                    <key ageMonth="18" value="450" />
+                    <key ageMonth="0" value="250" />
+                    <key ageMonth="18" value="1250" />
                 </food>
             </input>
             <output>
                 <manure><!-- liters per day based on age -->
-                    <key ageMonth="0"  value="25" />
-                    <key ageMonth="18" value="300" />
+                    <key ageMonth="0"  value="250" />
+                    <key ageMonth="18" value="500" />
                 </manure>
                 <liquidManure><!-- liters per day based on age -->
-                    <key ageMonth="0"  value="40" />
-                    <key ageMonth="18" value="250" />
+                    <key ageMonth="0"  value="200" />
+                    <key ageMonth="18" value="600" />
                 </liquidManure>
             </output>
         </subType>
@@ -223,41 +223,30 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="15" />
-                    <key ageMonth="18" value="130" />
+                    <key ageMonth="0" value="50" />
+                    <key ageMonth="18" value="250" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="10" />
                     <key ageMonth="18" value="80" />
                 </water>
                 <food><!-- liters per day based on age -->
-                    <key ageMonth="0" value="50" />
-                    <key ageMonth="18" value="450" />
+                    <key ageMonth="0" value="250" />
+                    <key ageMonth="18" value="1250" />
                 </food>
             </input>
             <output>
                 <manure><!-- liters per day based on age -->
-                    <key ageMonth="0"  value="25" />
-                    <key ageMonth="18" value="300" />
+                    <key ageMonth="0"  value="250" />
+                    <key ageMonth="18" value="500" />
                 </manure>
                 <liquidManure><!-- liters per day based on age -->
-                    <key ageMonth="0"  value="40" />
-                    <key ageMonth="18" value="250" />
+                    <key ageMonth="0"  value="200" />
+                    <key ageMonth="18" value="600" />
                 </liquidManure>
             </output>
         </subType>
-		
-		
-    </animal>
-	
-	
-        
-        
-		
-		
-		
-    
-	
+	</animal>
     <animal type="RABBIT" statsBreeding="breedSheepCount" clusterClass="AnimalCluster">
         <configFilename>maps/character/rabbits/husbandryAnimalsrabbits.xml</configFilename>
 
@@ -380,16 +369,16 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="6" value="30" />
+                    <key ageMonth="0" value="10" />
+                    <key ageMonth="6" value="80" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="2" />
                     <key ageMonth="6" value="20" />
                 </water>
                 <food><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="6" value="90" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="6" value="250" />
                 </food>
             </input>
             <output>
@@ -427,16 +416,16 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="6" value="30" />
+                    <key ageMonth="0" value="10" />
+                    <key ageMonth="6" value="80" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="2" />
                     <key ageMonth="6" value="20" />
                 </water>
                 <food><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="6" value="90" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="6" value="250" />
                 </food>
             </input>
             <output>
@@ -474,16 +463,16 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="6" value="30" />
+                    <key ageMonth="0" value="10" />
+                    <key ageMonth="6" value="80" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="2" />
                     <key ageMonth="6" value="20" />
                 </water>
                 <food><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="6" value="90" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="6" value="250" />
                 </food>
             </input>
             <output>
@@ -532,8 +521,8 @@
                     <key ageMonth="5" value="20" />
                 </water>
                 <food><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="5" value="50" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="5" value="200" />
                 </food>
             </input>
             <output>
@@ -572,8 +561,8 @@
                     <key ageMonth="5" value="20" />
                 </water>
                 <food><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="5" value="50" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="5" value="200" />
                 </food>
             </input>
             <output>
@@ -612,8 +601,8 @@
                     <key ageMonth="5" value="20" />
                 </water>
                 <food><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="5" value="50" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="5" value="200" />
                 </food>
             </input>
             <output>
@@ -652,8 +641,8 @@
                     <key ageMonth="5" value="20" />
                 </water>
                 <food><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="5" value="50" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="5" value="200" />
                 </food>
             </input>
             <output>
@@ -693,8 +682,8 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="18" value="80" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="18" value="150" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="10" />
@@ -735,8 +724,8 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="18" value="80" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="18" value="150" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="10" />
@@ -777,8 +766,8 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="18" value="80" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="18" value="150" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="10" />
@@ -819,8 +808,8 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="18" value="80" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="18" value="150" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="10" />
@@ -861,8 +850,8 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="18" value="80" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="18" value="150" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="10" />
@@ -903,8 +892,8 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="18" value="80" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="18" value="150" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="10" />
@@ -945,8 +934,8 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="18" value="80" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="18" value="150" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="10" />
@@ -987,8 +976,8 @@
             </transportPrice>
             <input>
                 <straw><!-- liters per day based on age -->
-                    <key ageMonth="0" value="5" />
-                    <key ageMonth="18" value="80" />
+                    <key ageMonth="0" value="25" />
+                    <key ageMonth="18" value="150" />
                 </straw>
                 <water><!-- liters per day based on age -->
                     <key ageMonth="0" value="10" />
@@ -1078,8 +1067,3 @@
         </subType>
     </animal>
 </animals>
-
-	 
-	 
-	 
-	 
